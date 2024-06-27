@@ -1,0 +1,1139 @@
+Unreviewed CPLX768WR7-11       D-fructose               PTS       
+           putative D-fructose PEP-driven transporter
+           Several possible reactions available for import
+Unreviewed CPLX768WR7-1        K+                       ATP       
+           putative K+ ATP-driven transporter
+           ATP + K+[extracellular space] + H2O  ->  ADP + K+[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-2        glutathione              ATP       
+           putative glutathione ATP-driven transporter
+           ATP + glutathione[extracellular space] + H2O  ->  ADP + glutathione[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-3        glutathione              ATP       
+           putative glutathione ATP-driven transporter
+           ATP + glutathione[extracellular space] + H2O  ->  ADP + glutathione[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-4        glutathione              ATP       
+           putative glutathione ATP-driven transporter
+           ATP + glutathione[extracellular space] + H2O  ->  ADP + glutathione[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-5        L-glutamine              ATP       
+           putative L-glutamine ABC transporter
+           ATP + L-glutamine[extracellular space] + H2O  ->  ADP + L-glutamine[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-6        an oligopeptide          ATP       
+           putative an oligopeptide ATP-driven transporter
+           an oligopeptide[extracellular space] + ATP + H2O  ->  an oligopeptide[cytosol] + ADP + phosphate + H+
+Unreviewed CPLX768WR7-7        sulfate                  ATP       
+           putative sulfate ATP-driven transporter
+           ATP + sulfate[extracellular space] + H2O  ->  ADP + sulfate[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-8        sulfate                  ATP       
+           putative sulfate ATP-driven transporter
+           ATP + sulfate[extracellular space] + H2O  ->  ADP + sulfate[cytosol] + phosphate + H+
+Unreviewed CPLX768WR7-9        lactose                  ATP       
+           putative lactose ATP-driven transporter
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed CPLX768WR7-10       lactose                  ATP       
+           putative lactose ATP-driven transporter
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06084-MONOMER 1  nicotinate               UNKNOWN   
+           putative niacin/nicotinamide transporter naip
+           nicotinate[extracellular space]  ->  nicotinate[cytosol]
+Unreviewed HPHBHEJK_06084-MONOMER 2  nicotinamide             UNKNOWN   
+           putative niacin/nicotinamide transporter naip
+           nicotinamide[extracellular space]  ->  nicotinamide[cytosol]
+Unreviewed HPHBHEJK_00693-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00693-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00693-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02584-MONOMER    riboflavin               ATP       
+           riboflavin transport system permease protein ribx
+           ATP + riboflavin[extracellular space] + H2O  ->  ADP + riboflavin[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_00568-MONOMER    staphyloferrin B         UNKNOWN   
+           staphyloferrin b transporter
+           staphyloferrin B[extracellular space]  ->  staphyloferrin B[cytosol]
+Unreviewed HPHBHEJK_06252-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00900-MONOMER    Na+                      SECONDARY 
+           sodium-lithium/proton antiporter
+           Na+[extracellular space] + 2 H+[cytosol]  <-->  Na+[cytosol] + 2 H+[extracellular space]
+Unreviewed HPHBHEJK_05359-MONOMER    staphylopine             UNKNOWN   
+           staphylopine export protein
+           staphylopine[cytosol]  ->  staphylopine[extracellular space]
+Unreviewed HPHBHEJK_05683-MONOMER    staphylopine             UNKNOWN   
+           staphylopine export protein
+           staphylopine[cytosol]  ->  staphylopine[extracellular space]
+Unreviewed HPHBHEJK_05103-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05103-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05103-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02910-MONOMER 1  glutathione              UNKNOWN   
+           glutathione-regulated potassium-efflux system ancillary protein keff
+           glutathione[cytosol]  ->  glutathione[extracellular space]
+Unreviewed HPHBHEJK_02910-MONOMER 2  K+                       UNKNOWN   
+           glutathione-regulated potassium-efflux system ancillary protein keff
+           K+[cytosol]  <-->  K+[extracellular space]
+Unreviewed HPHBHEJK_05363-MONOMER    staphylopine             SECONDARY 
+           metal-staphylopine import system permease protein cntb
+           staphylopine[extracellular space] + H+[extracellular space]  ->  staphylopine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03605-MONOMER    4-aminobutanoate         SECONDARY 
+           gaba permease
+           4-aminobutanoate[extracellular space] + H+[extracellular space]  <-->  4-aminobutanoate[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04074-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00303-MONOMER    guanidinium              UNKNOWN   
+           putative guanidinium efflux system subunit gdnc
+           guanidinium[cytosol]  ->  guanidinium[extracellular space]
+Unreviewed HPHBHEJK_01987-MONOMER    ATP                      UNKNOWN   
+           putative multidrug export atp-binding/permease protein
+           ATP[cytosol]  <-->  ATP[extracellular space]
+Unreviewed HPHBHEJK_04249-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04737-MONOMER    acetate                  SECONDARY 
+           cation/acetate symporter actp
+           acetate[extracellular space]  ->  acetate[cytosol]
+Unreviewed HPHBHEJK_00931-MONOMER    Na+                      SECONDARY 
+           sodium-lithium/proton antiporter
+           Na+[extracellular space] + 2 H+[cytosol]  <-->  Na+[cytosol] + 2 H+[extracellular space]
+Unreviewed HPHBHEJK_03933-MONOMER    riboflavin               ATP       
+           riboflavin transport system permease protein ribx
+           ATP + riboflavin[extracellular space] + H2O  ->  ADP + riboflavin[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_01259-MONOMER    glycine betaine          ATP       
+           glycine betaine transport system permease protein opuab
+           glycine betaine[extracellular space] + ATP + H2O  ->  glycine betaine[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06068-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06068-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06068-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01649-MONOMER    ATP                      UNKNOWN   
+           putative multidrug export atp-binding/permease protein
+           ATP[cytosol]  <-->  ATP[extracellular space]
+Unreviewed HPHBHEJK_04526-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04787-MONOMER    ATP                      UNKNOWN   
+           atp-binding/permease protein cydd
+           ATP[extracellular space]  <-->  ATP[cytosol]
+Unreviewed HPHBHEJK_05581-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter impx
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_02594-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05279-MONOMER    Mn2+                     UNKNOWN   
+           manganese transport system membrane protein mntd
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_00554-MONOMER    a nucleoside             UNKNOWN   
+           putative nucleoside transporter yegt
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_02348-MONOMER    Ca2+                     SECONDARY 
+           ca(2+)/h(+) antiporter
+           Ca2+[extracellular space] + H+[cytosol]  ->  Ca2+[cytosol] + H+[extracellular space]
+Unreviewed HPHBHEJK_05180-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein b
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_03259-MONOMER    petrobactin              UNKNOWN   
+           apo-petrobactin exporter
+           petrobactin[cytosol]  ->  petrobactin[extracellular space]
+Unreviewed HPHBHEJK_04525-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00205-MONOMER    bacillibactin            UNKNOWN   
+           bacillibactin exporter
+           bacillibactin[cytosol]  ->  bacillibactin[extracellular space]
+Unreviewed HPHBHEJK_06127-MONOMER    L-cystine                ATP       
+           l-cystine transport system permease protein yecs
+           L-cystine[extracellular space] + ATP + H2O  ->  L-cystine[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04738-MONOMER    acetate                  SECONDARY 
+           cation/acetate symporter actp
+           acetate[extracellular space]  ->  acetate[cytosol]
+Unreviewed HPHBHEJK_03831-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03831-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03831-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01703-MONOMER    Mn2+                     UNKNOWN   
+           manganese efflux system protein mnes
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_05401-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05689-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05894-MONOMER 1  Co2+                     UNKNOWN   
+           cobalt/magnesium transport protein cora
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_05894-MONOMER 2  Mg2+                     UNKNOWN   
+           cobalt/magnesium transport protein cora
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Unreviewed HPHBHEJK_01631-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05293-MONOMER 1  L-cysteine               UNKNOWN   
+           cysteine/o-acetylserine efflux protein
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_05293-MONOMER 2  O-acetyl-L-serine        UNKNOWN   
+           cysteine/o-acetylserine efflux protein
+           O-acetyl-L-serine[cytosol]  ->  O-acetyl-L-serine[extracellular space]
+Unreviewed HPHBHEJK_00766-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacg
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04476-MONOMER    glutathione              ATP       
+           glutathione transport system permease protein gsic
+           ATP + glutathione[extracellular space] + H2O  ->  ADP + glutathione[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_03117-MONOMER    L-ascorbate              PTS       
+           ascorbate-specific pts system eiic component
+           an [HPr protein]-Npi-phospho-L-histidine + L-ascorbate[extracellular space]  ->  L-ascorbate 6-phosphate[cytosol] + an [HPr]-L-histidine
+Unreviewed HPHBHEJK_00485-MONOMER    trehalose                ATP       
+           trehalose transport system permease protein sugb
+           trehalose[extracellular space] + ATP + H2O  ->  trehalose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04039-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04039-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04039-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05586-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05586-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05586-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00884-MONOMER    phosphate                UNKNOWN   
+           phosphate-specific transport system accessory protein phou
+           phosphate[extracellular space]  <-  phosphate[cytosol]
+Unreviewed HPHBHEJK_05402-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05493-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06111-MONOMER    a nucleoside             SECONDARY 
+           nucleoside permease nupc
+           a nucleoside[extracellular space] + H+[extracellular space]  ->  a nucleoside[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03830-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03830-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03830-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03247-MONOMER    ATP                      UNKNOWN   
+           putative multidrug export atp-binding/permease protein
+           ATP[cytosol]  <-->  ATP[extracellular space]
+Unreviewed HPHBHEJK_05643-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05920-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06047-MONOMER    Zn2+                     ATP       
+           zinc-transporting atpase
+           Zn2+[extracellular space] + ATP + H2O  ->  Zn2+[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05449-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter zupt
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Unreviewed HPHBHEJK_02191-MONOMER    Zn2+                     UNKNOWN   
+           high-affinity zinc uptake system binding-protein znua
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Unreviewed HPHBHEJK_01692-MONOMER    K+                       SECONDARY 
+           na(+), li(+), k(+)/h(+) antiporter
+           K+[extracellular space] + 2 H+[cytosol]  <-->  K+[cytosol] + 2 H+[extracellular space]
+Unreviewed HPHBHEJK_00731-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporter mgte
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Unreviewed HPHBHEJK_05688-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01781-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein b
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_02311-MONOMER 1  guanine                  SECONDARY 
+           guanine/hypoxanthine permease pbuo
+           guanine[extracellular space] + H+[extracellular space]  ->  guanine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02311-MONOMER 2  hypoxanthine             SECONDARY 
+           guanine/hypoxanthine permease pbuo
+           hypoxanthine[extracellular space] + H+[extracellular space]  <-  hypoxanthine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02987-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04849-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_01150-MONOMER    L-cystine                UNKNOWN   
+           l-cystine uptake protein tcyp
+           L-cystine[extracellular space]  ->  L-cystine[cytosol]
+Unreviewed HPHBHEJK_04105-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04105-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04105-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05758-MONOMER    D-mannose                PTS       
+           pts system mannose-specific eiibca component
+           an [HPr protein]-Npi-phospho-L-histidine + D-mannose[extracellular space]  ->  D-mannose 6-phosphate[cytosol] + an [HPr]-L-histidine
+Unreviewed HPHBHEJK_01745-MONOMER    nitrate                  UNKNOWN   
+           nitrate transporter
+           nitrate[extracellular space]  ->  nitrate[cytosol]
+Unreviewed HPHBHEJK_04321-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04343-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05362-MONOMER    staphylopine             SECONDARY 
+           metal-staphylopine import system permease protein cntc
+           staphylopine[extracellular space] + H+[extracellular space]  ->  staphylopine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04867-MONOMER    guanidinium              UNKNOWN   
+           putative guanidinium efflux system subunit gdnc
+           guanidinium[cytosol]  ->  guanidinium[extracellular space]
+Unreviewed HPHBHEJK_00232-MONOMER    petrobactin              SECONDARY 
+           petrobactin import system permease protein yclo
+           petrobactin[extracellular space] + H+[extracellular space]  ->  petrobactin[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03791-MONOMER    ATP                      UNKNOWN   
+           atp-binding/permease protein cydd
+           ATP[extracellular space]  <-->  ATP[cytosol]
+Unreviewed HPHBHEJK_03669-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03669-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03669-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03401-MONOMER 1  chloride                 CHANNEL   
+           chloride/fluoride channel protein
+           chloride[extracellular space]  ->  chloride[cytosol]
+Unreviewed HPHBHEJK_03401-MONOMER 2  fluoride                 CHANNEL   
+           chloride/fluoride channel protein
+           fluoride[extracellular space]  <-->  fluoride[cytosol]
+Unreviewed HPHBHEJK_04642-MONOMER    ectoine                  UNKNOWN   
+           ectoine/hydroxyectoine transporter
+           ectoine[extracellular space]  ->  ectoine[cytosol]
+Unreviewed HPHBHEJK_03263-MONOMER    H+                       SECONDARY 
+           sodium, potassium, lithium and rubidium/h(+) antiporter
+           Na+[cytosol] + 2 H+[extracellular space]  <-->  Na+[extracellular space] + 2 H+[cytosol]
+Unreviewed HPHBHEJK_04268-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04268-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04268-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02269-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport system permease protein ugpa
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_01002-MONOMER    riboflavin               ATP       
+           riboflavin transport system permease protein ribx
+           ATP + riboflavin[extracellular space] + H2O  ->  ADP + riboflavin[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_05492-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03797-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00800-MONOMER    bacillibactin            UNKNOWN   
+           bacillibactin exporter
+           bacillibactin[cytosol]  ->  bacillibactin[extracellular space]
+Unreviewed HPHBHEJK_00233-MONOMER    petrobactin              SECONDARY 
+           petrobactin import system permease protein ycln
+           petrobactin[extracellular space] + H+[extracellular space]  ->  petrobactin[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05547-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter ribz
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_06028-MONOMER    Mn2+                     UNKNOWN   
+           manganese efflux system protein mnes
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_01951-MONOMER 1  FMN                      UNKNOWN   
+           putative fmn/fad exporter yeeo
+           FMN[cytosol]  ->  FMN[extracellular space]
+Unreviewed HPHBHEJK_01951-MONOMER 2  FAD                      UNKNOWN   
+           putative fmn/fad exporter yeeo
+           FAD[cytosol]  ->  FAD[extracellular space]
+Unreviewed HPHBHEJK_05481-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacg
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03654-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06101-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_02263-MONOMER    D-ribose                 UNKNOWN   
+           ribose import binding protein rbsb
+           D-ribose[extracellular space]  ->  D-ribose[cytosol]
+Unreviewed HPHBHEJK_03454-MONOMER    trehalose                PTS       
+           pts system trehalose-specific eiibc component
+           trehalose[extracellular space] + an [HPr protein]-Npi-phospho-L-histidine  ->  D-trehalose 6-phosphate[cytosol] + an [HPr]-L-histidine
+Unreviewed HPHBHEJK_00692-MONOMER    trehalose                ATP       
+           trehalose transport system permease protein sugb
+           trehalose[extracellular space] + ATP + H2O  ->  trehalose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05777-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05777-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05777-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03468-MONOMER    D-ribose                 SECONDARY 
+           ribose import permease protein rbsc
+           D-ribose[extracellular space] + H+[extracellular space]  ->  D-ribose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01658-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter rfnt
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_02199-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03280-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02808-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacg
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03709-MONOMER    bacilysin                UNKNOWN   
+           putative bacilysin exporter bace
+           bacilysin[cytosol]  ->  bacilysin[extracellular space]
+Unreviewed HPHBHEJK_01477-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein b
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_03989-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03989-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03989-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00613-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00613-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00613-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06321-MONOMER    D-xylose                 ATP       
+           xylose transport system permease protein xylh
+           ATP + D-xylose[extracellular space] + H2O  ->  ADP + D-xylose[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_05778-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00302-MONOMER    guanidinium              UNKNOWN   
+           putative guanidinium efflux system subunit gdnd
+           guanidinium[cytosol]  ->  guanidinium[extracellular space]
+Unreviewed HPHBHEJK_06304-MONOMER    hydrogen carbonate       UNKNOWN   
+           bicarbonate transporter bica
+           hydrogen carbonate[extracellular space]  ->  hydrogen carbonate[cytosol]
+Unreviewed HPHBHEJK_04331-MONOMER    petrobactin              SECONDARY 
+           petrobactin import system permease protein fpub
+           petrobactin[extracellular space] + H+[extracellular space]  ->  petrobactin[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03749-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03749-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03749-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00860-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00860-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00860-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06067-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06067-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06067-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04317-MONOMER    2-dehydro-3-deoxy-D-gluconate SECONDARY 
+           2-keto-3-deoxygluconate permease
+           2-dehydro-3-deoxy-D-gluconate[extracellular space] + H+[extracellular space]  <-->  2-dehydro-3-deoxy-D-gluconate[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03750-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03750-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03750-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03758-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport system permease protein ugpa
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_05348-MONOMER    petrobactin              SECONDARY 
+           petrobactin import system permease protein fpub
+           petrobactin[extracellular space] + H+[extracellular space]  ->  petrobactin[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00475-MONOMER    L-carnitine              SECONDARY 
+           carnitine transport permease protein opucb
+           L-carnitine[extracellular space] + H+[extracellular space]  ->  L-carnitine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00792-MONOMER    Ni2+                     ATP       
+           nickel transport system permease protein nikb
+           Ni2+[extracellular space] + ATP + H2O  ->  Ni2+[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03581-MONOMER    chromate                 UNKNOWN   
+           putative chromate transport protein
+           chromate[extracellular space]  ->  chromate[cytosol]
+Unreviewed HPHBHEJK_02891-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02891-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02891-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05280-MONOMER    Mn2+                     UNKNOWN   
+           manganese transport system membrane protein mntc
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_02264-MONOMER    D-ribose                 SECONDARY 
+           ribose import permease protein rbsc
+           D-ribose[extracellular space] + H+[extracellular space]  ->  D-ribose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03757-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04979-MONOMER    staphyloferrin B         UNKNOWN   
+           staphyloferrin b transporter
+           staphyloferrin B[extracellular space]  ->  staphyloferrin B[cytosol]
+Unreviewed HPHBHEJK_04477-MONOMER    an oligopeptide          ATP       
+           oligopeptide transport system permease protein oppc
+           an oligopeptide[extracellular space] + ATP + H2O  ->  an oligopeptide[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_00224-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport system permease protein ugpa
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_04364-MONOMER 1  spermidine               ATP       
+           spermidine/putrescine transport system permease protein potb
+           ATP + spermidine[extracellular space] + H2O  ->  ADP + spermidine[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_04364-MONOMER 2  putrescine               ATP       
+           spermidine/putrescine transport system permease protein potb
+           ATP + putrescine[extracellular space] + H2O  ->  ADP + putrescine[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_02710-MONOMER    Mn2+                     UNKNOWN   
+           manganese efflux system protein mnep
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_01155-MONOMER    hemin                    ATP       
+           hemin transport system permease protein hmuu
+           hemin[extracellular space] + ATP + H2O  ->  hemin[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_02593-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05539-MONOMER    D-methionine             ATP       
+           d-methionine transport system permease protein meti
+           ATP + D-methionine[extracellular space] + H2O  ->  ADP + D-methionine[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_01954-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01954-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01954-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03721-MONOMER 1  4-amino-2-methyl-5-pyrimidinemethanol SECONDARY 
+           putative hmp/thiamine permease protein ykoc
+           4-amino-2-methyl-5-pyrimidinemethanol[extracellular space] + H+[extracellular space]  ->  4-amino-2-methyl-5-pyrimidinemethanol[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03721-MONOMER 2  thiamine                 SECONDARY 
+           putative hmp/thiamine permease protein ykoc
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03179-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03179-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03179-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01817-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01446-MONOMER 1  4-amino-2-methyl-5-pyrimidinemethanol SECONDARY 
+           putative hmp/thiamine permease protein ykoc
+           4-amino-2-methyl-5-pyrimidinemethanol[extracellular space] + H+[extracellular space]  ->  4-amino-2-methyl-5-pyrimidinemethanol[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01446-MONOMER 2  thiamine                 SECONDARY 
+           putative hmp/thiamine permease protein ykoc
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01752-MONOMER    L-arginine               UNKNOWN   
+           arginine exporter protein argo
+           L-arginine[cytosol]  <-  L-arginine[extracellular space]
+Unreviewed HPHBHEJK_00793-MONOMER    Ni2+                     SECONDARY 
+           nickel import system permease protein nikc
+           Ni2+[extracellular space] + H+[extracellular space]  ->  Ni2+[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05833-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04162-MONOMER 1  glutathione              UNKNOWN   
+           glutathione-regulated potassium-efflux system ancillary protein keff
+           glutathione[cytosol]  ->  glutathione[extracellular space]
+Unreviewed HPHBHEJK_04162-MONOMER 2  K+                       UNKNOWN   
+           glutathione-regulated potassium-efflux system ancillary protein keff
+           K+[cytosol]  <-->  K+[extracellular space]
+Unreviewed HPHBHEJK_03978-MONOMER 1  FMN                      UNKNOWN   
+           putative fmn/fad exporter yeeo
+           FMN[cytosol]  ->  FMN[extracellular space]
+Unreviewed HPHBHEJK_03978-MONOMER 2  FAD                      UNKNOWN   
+           putative fmn/fad exporter yeeo
+           FAD[cytosol]  ->  FAD[extracellular space]
+Unreviewed HPHBHEJK_00009-MONOMER    ATP                      UNKNOWN   
+           putative multidrug export atp-binding/permease protein
+           ATP[cytosol]  <-->  ATP[extracellular space]
+Unreviewed HPHBHEJK_03231-MONOMER    Zn2+                     SECONDARY 
+           cadmium, cobalt and zinc/h(+)-k(+) antiporter
+           Zn2+[extracellular space] + H+[cytosol]  <-  Zn2+[cytosol] + H+[extracellular space]
+Unreviewed HPHBHEJK_01957-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter ribz
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_01448-MONOMER 1  4-amino-2-methyl-5-pyrimidinemethanol SECONDARY 
+           putative hmp/thiamine permease protein ykoe
+           4-amino-2-methyl-5-pyrimidinemethanol[extracellular space] + H+[extracellular space]  ->  4-amino-2-methyl-5-pyrimidinemethanol[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01448-MONOMER 2  thiamine                 SECONDARY 
+           putative hmp/thiamine permease protein ykoe
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02200-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02200-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02200-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03158-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04755-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02959-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05705-MONOMER    riboflavin               SECONDARY 
+           putative riboflavin import permease protein rfud
+           riboflavin[extracellular space] + H+[extracellular space]  ->  riboflavin[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02824-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02824-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02824-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02581-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter ribz
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_00712-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00712-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00712-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03969-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_01436-MONOMER 1  L-cysteine               UNKNOWN   
+           cysteine/o-acetylserine efflux protein
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_01436-MONOMER 2  O-acetyl-L-serine        UNKNOWN   
+           cysteine/o-acetylserine efflux protein
+           O-acetyl-L-serine[cytosol]  ->  O-acetyl-L-serine[extracellular space]
+Unreviewed HPHBHEJK_05182-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein b
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_03143-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01049-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport system permease protein ugpa
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_04106-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04106-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04106-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03398-MONOMER    ATP                      UNKNOWN   
+           putative multidrug export atp-binding/permease protein
+           ATP[cytosol]  <-->  ATP[extracellular space]
+Unreviewed HPHBHEJK_03540-MONOMER    L-cystine                ATP       
+           l-cystine transport system permease protein yecs
+           L-cystine[extracellular space] + ATP + H2O  ->  L-cystine[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_01476-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein a
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_00266-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_06012-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transport protein cora
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+Unreviewed HPHBHEJK_02707-MONOMER    uracil                   SECONDARY 
+           uracil permease
+           uracil[extracellular space] + H+[extracellular space]  <-->  uracil[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00477-MONOMER 1  glycine betaine          ATP       
+           glycine betaine/carnitine/choline transport system permease protein opucd
+           glycine betaine[extracellular space] + ATP + H2O  ->  glycine betaine[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_00477-MONOMER 2  L-carnitine              ATP       
+           glycine betaine/carnitine/choline transport system permease protein opucd
+           L-carnitine[extracellular space] + ATP + H2O  ->  L-carnitine[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_00477-MONOMER 3  choline                  ATP       
+           glycine betaine/carnitine/choline transport system permease protein opucd
+           choline[extracellular space] + ATP + H2O  ->  choline[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03610-MONOMER    D-glucose                PTS       
+           pts system glucose-specific eiia component
+           an [HPr protein]-Npi-phospho-L-histidine + D-glucose[extracellular space]  ->  D-glucose 6-phosphate[cytosol] + an [HPr]-L-histidine
+Unreviewed HPHBHEJK_01818-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01818-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01818-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein meld
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02924-MONOMER    riboflavin               UNKNOWN   
+           riboflavin transporter rfnt
+           riboflavin[extracellular space]  ->  riboflavin[cytosol]
+Unreviewed HPHBHEJK_05832-MONOMER    trehalose                ATP       
+           trehalose transport system permease protein sugb
+           trehalose[extracellular space] + ATP + H2O  ->  trehalose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03668-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcg
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02941-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02941-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_02941-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01032-MONOMER    Fe2+                     UNKNOWN   
+           ferrous-iron efflux pump fief
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_02189-MONOMER    Zn2+                     UNKNOWN   
+           high-affinity zinc uptake system membrane protein znub
+           Zn2+[extracellular space]  ->  Zn2+[cytosol]
+Unreviewed HPHBHEJK_02872-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacg
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05644-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_03035-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03035-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03035-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01499-MONOMER    L-methionine             SECONDARY 
+           methionine import system permease protein metp
+           L-methionine[extracellular space] + H+[extracellular space]  ->  L-methionine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01048-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01048-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_01048-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05927-MONOMER    maltose                  ATP       
+           maltose/maltodextrin transport system permease protein malg
+           maltose[extracellular space] + ATP + H2O  ->  maltose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04880-MONOMER    Mn2+                     UNKNOWN   
+           putative manganese efflux pump mntp
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_06126-MONOMER    L-glutamine              ATP       
+           glutamine transport system permease protein glnp
+           ATP + L-glutamine[extracellular space] + H2O  ->  ADP + L-glutamine[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_06253-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_06348-MONOMER    a dipeptide              ATP       
+           dipeptide transport system permease protein dppb
+           ATP + a dipeptide[extracellular space] + H2O  ->  ADP + a dipeptide[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_04866-MONOMER    guanidinium              UNKNOWN   
+           putative guanidinium efflux system subunit gdnd
+           guanidinium[cytosol]  ->  guanidinium[extracellular space]
+Unreviewed HPHBHEJK_04075-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein ngcf
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00413-MONOMER    N,N'-diacetylchitobiose  SECONDARY 
+           diacetylchitobiose uptake system permease protein dasc
+           N,N'-diacetylchitobiose[extracellular space] + H+[extracellular space]  ->  N,N'-diacetylchitobiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03720-MONOMER 1  4-amino-2-methyl-5-pyrimidinemethanol SECONDARY 
+           putative hmp/thiamine permease protein ykoe
+           4-amino-2-methyl-5-pyrimidinemethanol[extracellular space] + H+[extracellular space]  ->  4-amino-2-methyl-5-pyrimidinemethanol[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_03720-MONOMER 2  thiamine                 SECONDARY 
+           putative hmp/thiamine permease protein ykoe
+           thiamine[extracellular space] + H+[extracellular space]  ->  thiamine[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_05674-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_05757-MONOMER 1  L-serine                 UNKNOWN   
+           serine/threonine transporter sstt
+           L-serine[extracellular space]  ->  L-serine[cytosol]
+Unreviewed HPHBHEJK_05757-MONOMER 2  L-threonine              UNKNOWN   
+           serine/threonine transporter sstt
+           L-threonine[extracellular space]  ->  L-threonine[cytosol]
+Unreviewed HPHBHEJK_01077-MONOMER    Mo2+                     ATP       
+           molybdenum transport system permease protein modb
+           Mo2+[extracellular space] + ATP + H2O  ->  Mo2+[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_04607-MONOMER    D-mannitol               PTS       
+           pts system mannitol-specific eiicb component
+           an [HPr protein]-Npi-phospho-L-histidine + D-mannitol[extracellular space]  ->  D-mannitol 1-phosphate[cytosol] + an [HPr]-L-histidine
+Unreviewed HPHBHEJK_05631-MONOMER    D-ribose                 SECONDARY 
+           ribose import permease protein rbsc
+           D-ribose[extracellular space] + H+[extracellular space]  ->  D-ribose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04659-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04659-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04659-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04342-MONOMER 1  melibiose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           melibiose[extracellular space] + H+[extracellular space]  <-->  melibiose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04342-MONOMER 2  raffinose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           raffinose[extracellular space] + H+[extracellular space]  ->  raffinose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_04342-MONOMER 3  stachyose                SECONDARY 
+           melibiose/raffinose/stachyose import permease protein melc
+           stachyose[extracellular space] + H+[extracellular space]  ->  stachyose[cytosol] + H+[cytosol]
+Unreviewed HPHBHEJK_00886-MONOMER    phosphate                ATP       
+           phosphate transport system permease protein psta
+           ATP + phosphate[extracellular space] + H2O  ->  ADP + phosphate[cytosol] + phosphate[cytosol] + H+
+Unreviewed HPHBHEJK_00646-MONOMER    sn-glycerol 3-phosphate  ATP       
+           sn-glycerol-3-phosphate transport system permease protein ugpa
+           ATP + sn-glycerol 3-phosphate[extracellular space] + H2O  ->  ADP + sn-glycerol 3-phosphate[cytosol] + phosphate + H+
+Unreviewed HPHBHEJK_05970-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_01537-MONOMER    K+                       UNKNOWN   
+           ktr system potassium uptake protein a
+           K+[extracellular space]  <-->  K+[cytosol]
+Unreviewed HPHBHEJK_05592-MONOMER    lactose                  ATP       
+           lactose transport system permease protein lacf
+           lactose[extracellular space] + ATP + H2O  ->  lactose[cytosol] + ADP + phosphate + H+
+Unreviewed HPHBHEJK_01074-MONOMER 1  Co2+                     UNKNOWN   
+           cobalt/magnesium transport protein cora
+           Several possible reactions available for import
+Unreviewed HPHBHEJK_01074-MONOMER 2  Mg2+                     UNKNOWN   
+           cobalt/magnesium transport protein cora
+           Mg2+[extracellular space]  ->  Mg2+[cytosol]
+
+
+Unreviewed HPHBHEJK_00013-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00014-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00134-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00135-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00147-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00148-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00204-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00225-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00249-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00265-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00267-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00326-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00327-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00330-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00335-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00336-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00414-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00423-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00424-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00486-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00510-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00614-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00621-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00622-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00633-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00645-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00650-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00651-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00662-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00663-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00667-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00701-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00702-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00704-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00713-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00715-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00721-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00745-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00759-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00767-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00774-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00775-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00805-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00806-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00813-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00814-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00847-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00848-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00854-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00855-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00861-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00984-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00985-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00992-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_00993-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01057-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01058-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01198-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01199-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01203-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01204-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01230-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01231-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01232-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01598-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01630-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01755-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01800-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01801-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01823-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01824-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01851-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01917-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_01955-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02148-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02149-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02258-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02259-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02365-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02404-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02405-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02410-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02607-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02608-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02618-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02619-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02632-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02633-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02645-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02657-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02687-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02740-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02758-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02769-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02784-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02798-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02799-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02809-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02825-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02848-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02853-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02873-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02890-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02893-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02921-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02922-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02931-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02932-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02942-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_02988-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03036-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03102-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03123-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03131-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03144-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03152-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03153-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03157-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03172-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03180-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03207-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03211-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03239-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03281-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03292-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03293-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03300-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03306-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03362-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03395-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03399-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03400-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03458-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03459-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03582-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03609-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03611-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03647-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03648-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03653-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03695-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03713-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03714-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03737-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03780-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03781-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03796-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03817-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03846-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03862-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03938-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03939-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03968-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03970-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_03990-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04010-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04011-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04033-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04038-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04047-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04048-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04062-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04063-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04064-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04154-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04184-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04201-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04202-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04243-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04248-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04269-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04279-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04322-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04363-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04371-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04490-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04512-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04538-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04557-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04558-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04612-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04628-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04631-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04644-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04645-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04654-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04655-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04660-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04661-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04674-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04714-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04715-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04754-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04788-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04808-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04850-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04968-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04969-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_04988-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05042-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05049-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05104-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05212-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05213-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05221-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05222-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05238-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05239-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05245-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05246-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05295-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05312-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05340-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05372-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05386-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05387-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05407-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05408-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05418-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05435-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05436-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05464-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05482-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05504-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05505-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05527-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05528-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05577-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05578-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05587-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05593-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05612-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05613-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05649-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05673-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05690-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05717-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05741-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05748-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05749-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05768-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05769-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05825-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05860-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05861-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05918-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05919-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05957-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_05969-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06024-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06075-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06076-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06100-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06133-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06347-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06359-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06360-MONOMER  (no substrate identified)
+Unreviewed HPHBHEJK_06480-MONOMER  (no substrate identified)
