@@ -1,0 +1,976 @@
+;;;      ---  Trial Parse Results for Paenibacillus strain  ---
+;;;
+;;; This report summarizes the findings of the PathoLogic parser for
+;;; the annotation files selected by the user for trial parsing.
+;;; Through inspection of this report, the user can tell whether features of major
+;;; importance were not recognized, possibly due to syntax errors or other
+;;; problems in the annotation files.
+;;;
+;;; If you want to change annotation file(s) to improve their parsability, 
+;;; update the annotation files.
+;;; Then, re-run the Trial Parse command.
+
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+
+;;; NODE_4+_length_1586477_cov_0.9794141586477
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                      1564
+gene-name :                      754
+gene-startbase :                1564
+gene-endbase :                  1564
+gene-product-type :             1564
+  gene-Proteins :                 1536
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      28
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                 1564
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   738
+  predicted :                        0
+  putative :                        72
+genes with synonyms :              0
+
+;;; NODE_8+_length_1252874_cov_0.9948461252874
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                      1172
+gene-name :                      626
+gene-startbase :                1172
+gene-endbase :                  1172
+gene-product-type :             1172
+  gene-Proteins :                 1156
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      15
+  gene-rRNAs :                       1
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                 1172
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   494
+  predicted :                        0
+  putative :                        45
+genes with synonyms :              0
+
+;;; NODE_9+_length_1002499_cov_11002499
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       903
+gene-name :                      408
+gene-startbase :                 903
+gene-endbase :                   903
+gene-product-type :              903
+  gene-Proteins :                  901
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       2
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  903
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   465
+  predicted :                        0
+  putative :                        53
+genes with synonyms :              0
+
+;;; NODE_10+_length_926397_cov_0.966703926397
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       798
+gene-name :                      419
+gene-startbase :                 798
+gene-endbase :                   798
+gene-product-type :              798
+  gene-Proteins :                  787
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      10
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    1
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  798
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   344
+  predicted :                        0
+  putative :                        37
+genes with synonyms :              0
+
+;;; NODE_12+_length_678810_cov_0.97264678810
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       578
+gene-name :                      315
+gene-startbase :                 578
+gene-endbase :                   578
+gene-product-type :              578
+  gene-Proteins :                  577
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       1
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  578
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   245
+  predicted :                        0
+  putative :                        32
+genes with synonyms :              0
+
+;;; NODE_15+_length_606145_cov_1.00821606145
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       522
+gene-name :                      234
+gene-startbase :                 522
+gene-endbase :                   522
+gene-product-type :              522
+  gene-Proteins :                  522
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  522
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   280
+  predicted :                        0
+  putative :                        24
+genes with synonyms :              0
+
+;;; NODE_18+_length_533631_cov_0.962967533631
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       441
+gene-name :                      205
+gene-startbase :                 441
+gene-endbase :                   441
+gene-product-type :              441
+  gene-Proteins :                  441
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  441
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   227
+  predicted :                        0
+  putative :                        23
+genes with synonyms :              0
+
+;;; NODE_32+_length_206172_cov_0.974026206172
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       192
+gene-name :                       92
+gene-startbase :                 192
+gene-endbase :                   192
+gene-product-type :              192
+  gene-Proteins :                  181
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      11
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  192
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    85
+  predicted :                        0
+  putative :                         9
+genes with synonyms :              0
+
+;;; NODE_33+_length_202392_cov_0.982019202392
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       192
+gene-name :                       99
+gene-startbase :                 192
+gene-endbase :                   192
+gene-product-type :              192
+  gene-Proteins :                  190
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       2
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  192
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    88
+  predicted :                        0
+  putative :                         7
+genes with synonyms :              0
+
+;;; NODE_50+_length_74199_cov_0.93246674199
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        86
+gene-name :                       72
+gene-startbase :                  86
+gene-endbase :                    86
+gene-product-type :               86
+  gene-Proteins :                   86
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   86
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    12
+  predicted :                        0
+  putative :                         3
+genes with synonyms :              0
+
+;;; NODE_51+_length_72563_cov_0.98355372563
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        62
+gene-name :                       34
+gene-startbase :                  62
+gene-endbase :                    62
+gene-product-type :               62
+  gene-Proteins :                   60
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       1
+  gene-rRNAs :                       1
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   62
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    24
+  predicted :                        0
+  putative :                         3
+genes with synonyms :              0
+
+;;; NODE_54+_length_63697_cov_0.95374463697
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        66
+gene-name :                       50
+gene-startbase :                  66
+gene-endbase :                    66
+gene-product-type :               66
+  gene-Proteins :                   65
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       1
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   66
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    15
+  predicted :                        0
+  putative :                         3
+genes with synonyms :              0
+
+;;; NODE_89+_length_5036_cov_0.5644145036
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         5
+gene-name :                        0
+gene-startbase :                   5
+gene-endbase :                     5
+gene-product-type :                5
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       2
+  gene-rRNAs :                       3
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    5
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_111+_length_1544_cov_0.86071544
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_121+_length_764_cov_0.903487764
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_144+_length_264_cov_0.342972264
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       1
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_178+_length_79_cov_0.82423979
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_181+_length_67_cov_0.5355167
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_185+_length_62_cov_0.35860462
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_189+_length_55_cov_0.29168655
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_191+_length_53_cov_0.3123153
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_195+_length_45_cov_0.44626145
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_196+_length_44_cov_0.14884644
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_202+_length_33_cov_0.45926433
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_205+_length_23_cov_0.31511223
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc043cyc/27.5/input/all_merged_paenibacillus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Annotation file contains these additional feature qualifiers,
+which have not been processed:
+(/translation= /transl_table= /codon_start= /inference= /strain=
+ /mol_type= /organism=)
+
